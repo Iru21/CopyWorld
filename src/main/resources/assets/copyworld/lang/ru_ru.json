@@ -1,0 +1,7 @@
+{
+  "selectWorld.edit.copy": "Копировать мир",
+  "selectWorld.edit.copyFailed": "Не удалось создать копию",
+  "selectWorld.edit.copySummaryFailed": "Не удалось получить информацию о мире",
+  "selectWorld.edit.copySuccess": "Мир скопирован",
+  "selectWorld.edit.copySuccessDetails": "Мир %s успешно скопирован"
+}
